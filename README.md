@@ -29,4 +29,17 @@ WHEN "Other Sales" THEN [Other Sales]
 WHEN "Global Sales" THEN [Global Sales]
 END` Why do i have to create zone sales parameter while i can create my viz with each field? Reason is that i want to zones *(NA_Sales, EU_Sales, JP_Sales, Other_Sales and Global_Sales)* to be in one worksheet, creating many worksheet for each viz won't be ideal.
 
+# Business Insight
+I looked at the following KPI:
+* Total Name in the Dataset (how many video games is in the datset)
+* Total Publisher in the Dataset (how many publisher have published their games)
+* Total Platform in the Dataset (hoe many palform are there in th dataset)
+* Total Genre in the Dataset (what category of the video belongs to)
 
+Also, i went further to find more insights. I looked at the:
+* Zone Sales by Year and Genre
+* Total Sales by Genre
+* Top 10 Names by Sales
+* Top 10 Publishers by Sales
+* Top 10 Platform by Sales
+This is the [Link]( to my Tableau Dashboard
