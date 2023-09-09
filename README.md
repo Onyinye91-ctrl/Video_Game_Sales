@@ -42,4 +42,5 @@ Also, i went further to find more insights. I looked at the:
 * Top 10 Names by Sales
 * Top 10 Publishers by Sales
 * Top 10 Platform by Sales
-This is the [Link]( to my Tableau Dashboard
+
+This is the [Link](https://public.tableau.com/views/VideoGameDashboard_16942499924860/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) to my Tableau Dashboard.
